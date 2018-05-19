@@ -29,6 +29,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="express_demo.js" />
+    <Compile Include="express_demo2.js">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="global_var_test.js">
+      <SubType>Code</SubType>
+    </Compile>
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>

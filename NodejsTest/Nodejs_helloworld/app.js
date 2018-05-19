@@ -19,4 +19,4 @@ writerStream.on('error', function (err) {
 	console.log(err.stack);
 });
 
-console.log("ok");
+console.log("fff");
